@@ -1,5 +1,5 @@
 # deepthought_assignment
-DTCCultureTech AI internship assignment
+DTCultureTech AI internship assignment
 
 This assignment identifies 25 Indian manufacturing companies that fit DeepThought’s “Federer” profile.
 
