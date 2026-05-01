@@ -13,9 +13,8 @@ This repository contains Part A of the DeepThought Business Analytics internship
 
 | File | What It Contains |
 |------|-----------------|
-| `companies_corrected.csv` | 25 profiled companies — passes, borderlines, and documented fails — each scored on 6 criteria with evidence |
+| `companies.xslx` | 25 profiled companies — passes, borderlines, and documented fails — each scored on 6 criteria with evidence |
 | `methodology.md` | Full research process: city selection rationale, sourcing approach, AI tools used, hallucination controls, filtering logic |
-| `1000_company_proposal.md` | Part B — full proposal for building a 1000-company ICP-qualified list within one month |
 
 ---
 
